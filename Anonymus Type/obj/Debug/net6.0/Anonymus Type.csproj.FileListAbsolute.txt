@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\bin\Debug\net6.0\Anonymus Type.exe
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\bin\Debug\net6.0\Anonymus Type.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\bin\Debug\net6.0\Anonymus Type.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\bin\Debug\net6.0\Anonymus Type.dll
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\bin\Debug\net6.0\Anonymus Type.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.dll
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\refint\Anonymus Type.dll
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\Anonymus Type.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\Anonymus Type\obj\Debug\net6.0\ref\Anonymus Type.dll

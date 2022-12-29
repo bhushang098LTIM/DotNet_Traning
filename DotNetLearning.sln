@@ -185,6 +185,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionInitializer", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implictly Typed Local Variable", "Implictly Typed Local Variable\Implictly Typed Local Variable.csproj", "{0C91495F-DE4C-43C2-88E7-E0494247F8CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymus Type", "Anonymus Type\Anonymus Type.csproj", "{9DAB8357-5D36-48F6-867C-F33A1B8574BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,10 @@ Global
 		{0C91495F-DE4C-43C2-88E7-E0494247F8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C91495F-DE4C-43C2-88E7-E0494247F8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C91495F-DE4C-43C2-88E7-E0494247F8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAB8357-5D36-48F6-867C-F33A1B8574BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAB8357-5D36-48F6-867C-F33A1B8574BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAB8357-5D36-48F6-867C-F33A1B8574BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAB8357-5D36-48F6-867C-F33A1B8574BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
