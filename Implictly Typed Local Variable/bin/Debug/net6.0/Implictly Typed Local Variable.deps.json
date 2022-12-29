@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Implictly Typed Local Variable/1.0.0": {
+        "runtime": {
+          "Implictly Typed Local Variable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implictly Typed Local Variable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
