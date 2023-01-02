@@ -207,13 +207,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADoDotNet", "ADoDotNet", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database Operations", "Database Operations\Database Operations.csproj", "{C5D23D2F-8A9C-490A-A1F0-55756D91512C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{C1C99EC0-7733-48B7-B31D-57AFE7612839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Reflection\Reflection.csproj", "{C1C99EC0-7733-48B7-B31D-57AFE7612839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationDomain", "ApplicationDomain\ApplicationDomain.csproj", "{CADE2AFD-A023-4524-AD75-6F4C6E1C850A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomain", "ApplicationDomain\ApplicationDomain.csproj", "{CADE2AFD-A023-4524-AD75-6F4C6E1C850A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optional And Named Parameter", "Optional And Named Parameter\Optional And Named Parameter.csproj", "{E444648A-C465-4513-8EAD-2D4BA0CD95EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optional And Named Parameter", "Optional And Named Parameter\Optional And Named Parameter.csproj", "{E444648A-C465-4513-8EAD-2D4BA0CD95EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Disconnected Db Aproach", "Connected Disconnected Db Aproach\Connected Disconnected Db Aproach.csproj", "{90BDD757-268D-46B0-A42E-99D9F02488D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic Demo", "Dynamic Demo\Dynamic Demo.csproj", "{73D37B33-A918-4815-A6E3-4FA9E496838A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -581,6 +583,10 @@ Global
 		{90BDD757-268D-46B0-A42E-99D9F02488D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90BDD757-268D-46B0-A42E-99D9F02488D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90BDD757-268D-46B0-A42E-99D9F02488D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D37B33-A918-4815-A6E3-4FA9E496838A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D37B33-A918-4815-A6E3-4FA9E496838A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D37B33-A918-4815-A6E3-4FA9E496838A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D37B33-A918-4815-A6E3-4FA9E496838A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

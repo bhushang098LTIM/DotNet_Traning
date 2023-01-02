@@ -84,10 +84,47 @@ namespace Connected_Disconnected_Db_Aproach
             Console.WriteLine("---------------------------------------");
         }
 
+        static void ConnectedAutomaticLoad()
+        {
+            SqlConnection connection = new SqlConnection();
+            connection.ConnectionString = connectionString;
+
+            SqlCommand command = new SqlCommand();
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            string strCommand = @"select * from dbo.Employees";
+            command.CommandText = strCommand;
+
+            SqlDataReader reader;
+
+            connection.Open();
+            reader = command.ExecuteReader(); // Returns data reader object which will refer to the result set fro read operations 
+            DataTable dt = new DataTable();
+            dt.Load(reader);
+
+            Console.Write("ID");
+            Console.Write("\t Name");
+            Console.Write("\t Sallary");
+            Console.WriteLine("\t Department ID");
+            Console.WriteLine("---------------------------------------");
+
+            foreach (DataRow row in dt.Rows)
+            {
+                Console.Write(row[0]);
+                Console.Write("\t" + row["Name"]);
+                Console.Write("\t" + row["Salary"]);
+                Console.WriteLine("\t" + row["DID"]);
+            }
+            Console.WriteLine("---------------------------------------");
+
+            reader.Close();
+            connection.Close();
+        }
         static void Main(string[] args)
         {
             Connected();
             Disconnected();
+            ConnectedAutomaticLoad();
         }
     }
 }
