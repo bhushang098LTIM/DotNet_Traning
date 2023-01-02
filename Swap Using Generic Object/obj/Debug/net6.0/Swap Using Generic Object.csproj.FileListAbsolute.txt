@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\bin\Debug\net6.0\Swap Using Generic Object.exe
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\bin\Debug\net6.0\Swap Using Generic Object.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\bin\Debug\net6.0\Swap Using Generic Object.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\bin\Debug\net6.0\Swap Using Generic Object.dll
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\bin\Debug\net6.0\Swap Using Generic Object.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.dll
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\refint\Swap Using Generic Object.dll
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\Swap Using Generic Object.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\Swap Using Generic Object\obj\Debug\net6.0\ref\Swap Using Generic Object.dll
