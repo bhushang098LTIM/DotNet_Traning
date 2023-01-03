@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\bin\Debug\Auto Update with Command Builder.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\bin\Debug\Auto Update with Command Builder.exe
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\bin\Debug\Auto Update with Command Builder.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto Update with Command Builder.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto Update with Command Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto_Update_with_Command_Builder.Employeedata.resources
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto_Update_with_Command_Builder.Properties.Resources.resources
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto Update with Command Builder.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto Update with Command Builder.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto Update with Command Builder.exe
+C:\Users\labuser\source\repos\DotNetLearning\Auto Update with Command Builder\obj\Debug\Auto Update with Command Builder.pdb
