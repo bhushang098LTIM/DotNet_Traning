@@ -1,0 +1,8 @@
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\bin\Debug\TypedUnTypedAndTwoTable.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\bin\Debug\TypedUnTypedAndTwoTable.exe
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\bin\Debug\TypedUnTypedAndTwoTable.pdb
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\obj\Debug\TypedUnTypedAndTwoTable.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\obj\Debug\TypedUnTypedAndTwoTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\obj\Debug\TypedUnTypedAndTwoTable.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\obj\Debug\TypedUnTypedAndTwoTable.exe
+C:\Users\labuser\source\repos\DotNetLearning\TypedUnTypedAndTwoTable\obj\Debug\TypedUnTypedAndTwoTable.pdb
