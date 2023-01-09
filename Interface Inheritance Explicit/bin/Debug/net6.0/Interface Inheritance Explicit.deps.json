@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Interface Inheritance Explicit/1.0.0": {
+        "runtime": {
+          "Interface Inheritance Explicit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface Inheritance Explicit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

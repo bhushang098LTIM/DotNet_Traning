@@ -1,0 +1,8 @@
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\bin\Debug\Connected Disconnected Db Aproach.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\bin\Debug\Connected Disconnected Db Aproach.exe
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\bin\Debug\Connected Disconnected Db Aproach.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\obj\Debug\Connected Disconnected Db Aproach.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\obj\Debug\Connected Disconnected Db Aproach.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\obj\Debug\Connected Disconnected Db Aproach.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\obj\Debug\Connected Disconnected Db Aproach.exe
+C:\Users\labuser\source\repos\DotNetLearning\Connected Disconnected Db Aproach\obj\Debug\Connected Disconnected Db Aproach.pdb

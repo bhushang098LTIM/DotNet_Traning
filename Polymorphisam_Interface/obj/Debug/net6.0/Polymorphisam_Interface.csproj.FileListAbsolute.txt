@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\bin\Debug\net6.0\Polymorphisam_Interface.exe
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\bin\Debug\net6.0\Polymorphisam_Interface.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\bin\Debug\net6.0\Polymorphisam_Interface.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\bin\Debug\net6.0\Polymorphisam_Interface.dll
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\bin\Debug\net6.0\Polymorphisam_Interface.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.dll
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\refint\Polymorphisam_Interface.dll
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\Polymorphisam_Interface.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\Polymorphisam_Interface\obj\Debug\net6.0\ref\Polymorphisam_Interface.dll

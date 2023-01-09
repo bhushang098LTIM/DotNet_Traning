@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\bin\Debug\net6.0\BinarySerializationWithList.exe
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\bin\Debug\net6.0\BinarySerializationWithList.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\bin\Debug\net6.0\BinarySerializationWithList.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\bin\Debug\net6.0\BinarySerializationWithList.dll
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\bin\Debug\net6.0\BinarySerializationWithList.pdb
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.dll
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\refint\BinarySerializationWithList.dll
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.pdb
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\BinarySerializationWithList.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\BinarySerializationWithList\obj\Debug\net6.0\ref\BinarySerializationWithList.dll

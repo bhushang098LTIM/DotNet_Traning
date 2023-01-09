@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\bin\Debug\Connected Operations.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\bin\Debug\Connected Operations.exe
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\bin\Debug\Connected Operations.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected Operations.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected_Operations.frm_employee.resources
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected_Operations.Properties.Resources.resources
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected Operations.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected Operations.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected Operations.exe
+C:\Users\labuser\source\repos\DotNetLearning\Connected Operations\obj\Debug\Connected Operations.pdb

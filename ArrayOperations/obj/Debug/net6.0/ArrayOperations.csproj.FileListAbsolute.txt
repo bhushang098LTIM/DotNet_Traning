@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\bin\Debug\net6.0\ArrayOperations.exe
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\bin\Debug\net6.0\ArrayOperations.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\bin\Debug\net6.0\ArrayOperations.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\bin\Debug\net6.0\ArrayOperations.dll
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\bin\Debug\net6.0\ArrayOperations.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.dll
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\refint\ArrayOperations.dll
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ArrayOperations.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayOperations\obj\Debug\net6.0\ref\ArrayOperations.dll

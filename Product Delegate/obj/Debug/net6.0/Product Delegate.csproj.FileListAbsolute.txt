@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\bin\Debug\net6.0\Product Delegate.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\bin\Debug\net6.0\Product Delegate.dll
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\bin\Debug\net6.0\Product Delegate.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\bin\Debug\net6.0\Print Delegate.dll
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\bin\Debug\net6.0\Print Delegate.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.csproj.CopyComplete
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.dll
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\refint\Product Delegate.dll
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\Product Delegate.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Product Delegate\obj\Debug\net6.0\ref\Product Delegate.dll

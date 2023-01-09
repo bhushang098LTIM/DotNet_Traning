@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll

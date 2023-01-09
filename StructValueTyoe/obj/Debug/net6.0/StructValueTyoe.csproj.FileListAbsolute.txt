@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\bin\Debug\net6.0\StructValueTyoe.exe
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\bin\Debug\net6.0\StructValueTyoe.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\bin\Debug\net6.0\StructValueTyoe.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\bin\Debug\net6.0\StructValueTyoe.dll
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\bin\Debug\net6.0\StructValueTyoe.pdb
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.dll
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\refint\StructValueTyoe.dll
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.pdb
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\StructValueTyoe.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\StructValueTyoe\obj\Debug\net6.0\ref\StructValueTyoe.dll

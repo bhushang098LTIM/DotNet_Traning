@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\bin\Debug\net6.0\InheritanceExampleDay4.exe
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\bin\Debug\net6.0\InheritanceExampleDay4.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\bin\Debug\net6.0\InheritanceExampleDay4.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\bin\Debug\net6.0\InheritanceExampleDay4.dll
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\bin\Debug\net6.0\InheritanceExampleDay4.pdb
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.dll
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\refint\InheritanceExampleDay4.dll
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.pdb
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\InheritanceExampleDay4.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\InheritanceExampleDay4\obj\Debug\net6.0\ref\InheritanceExampleDay4.dll

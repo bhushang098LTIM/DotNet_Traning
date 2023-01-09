@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\bin\Debug\net6.0\StringOperatins.exe
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\bin\Debug\net6.0\StringOperatins.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\bin\Debug\net6.0\StringOperatins.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\bin\Debug\net6.0\StringOperatins.dll
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\bin\Debug\net6.0\StringOperatins.pdb
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.dll
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\refint\StringOperatins.dll
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.pdb
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\StringOperatins.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\StringOperatins\obj\Debug\net6.0\ref\StringOperatins.dll

@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\bin\Debug\net6.0\IComparable IDocompare Implementation.exe
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\bin\Debug\net6.0\IComparable IDocompare Implementation.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\bin\Debug\net6.0\IComparable IDocompare Implementation.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\bin\Debug\net6.0\IComparable IDocompare Implementation.dll
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\bin\Debug\net6.0\IComparable IDocompare Implementation.pdb
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.dll
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\refint\IComparable IDocompare Implementation.dll
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.pdb
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\IComparable IDocompare Implementation.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\IComparable IDocompare Implementation\obj\Debug\net6.0\ref\IComparable IDocompare Implementation.dll

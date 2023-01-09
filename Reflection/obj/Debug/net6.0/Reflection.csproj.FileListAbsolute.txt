@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\bin\Debug\net6.0\Reflection.exe
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\bin\Debug\net6.0\Reflection.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\bin\Debug\net6.0\Reflection.dll
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\bin\Debug\net6.0\Reflection.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.dll
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\Reflection\obj\Debug\net6.0\ref\Reflection.dll

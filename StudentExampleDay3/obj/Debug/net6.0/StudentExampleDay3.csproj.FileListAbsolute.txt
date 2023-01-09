@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\bin\Debug\net6.0\StudentExampleDay3.exe
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\bin\Debug\net6.0\StudentExampleDay3.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\bin\Debug\net6.0\StudentExampleDay3.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\bin\Debug\net6.0\StudentExampleDay3.dll
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\bin\Debug\net6.0\StudentExampleDay3.pdb
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.dll
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\refint\StudentExampleDay3.dll
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.pdb
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\StudentExampleDay3.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\StudentExampleDay3\obj\Debug\net6.0\ref\StudentExampleDay3.dll

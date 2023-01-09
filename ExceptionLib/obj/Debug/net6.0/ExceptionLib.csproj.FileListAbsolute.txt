@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\bin\Debug\net6.0\ExceptionLib.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\bin\Debug\net6.0\ExceptionLib.dll
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\bin\Debug\net6.0\ExceptionLib.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.dll
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\refint\ExceptionLib.dll
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ExceptionLib.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ExceptionLib\obj\Debug\net6.0\ref\ExceptionLib.dll

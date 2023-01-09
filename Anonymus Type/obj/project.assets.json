@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Abstract_Polymorphisam_Assignment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Abstract_Polymorphisam_Assignment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Abstract_Polymorphisam_Assignment.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Abstract_Polymorphisam_Assignment/1.0.0": {
+      "type": "project",
+      "path": "../Abstract_Polymorphisam_Assignment/Abstract_Polymorphisam_Assignment.csproj",
+      "msbuildProject": "../Abstract_Polymorphisam_Assignment/Abstract_Polymorphisam_Assignment.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Abstract_Polymorphisam_Assignment >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\labuser\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\labuser\\source\\repos\\DotNetLearning\\Abstract_Polymorphisam_Assignment\\Abstract_Polymorphisam_Assignment.csproj": {
+              "projectPath": "C:\\Users\\labuser\\source\\repos\\DotNetLearning\\Abstract_Polymorphisam_Assignment\\Abstract_Polymorphisam_Assignment.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

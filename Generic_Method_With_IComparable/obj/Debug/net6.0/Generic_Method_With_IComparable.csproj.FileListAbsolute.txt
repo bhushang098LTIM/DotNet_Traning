@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\bin\Debug\net6.0\Generic_Method_With_IComparable.exe
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\bin\Debug\net6.0\Generic_Method_With_IComparable.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\bin\Debug\net6.0\Generic_Method_With_IComparable.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\bin\Debug\net6.0\Generic_Method_With_IComparable.dll
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\bin\Debug\net6.0\Generic_Method_With_IComparable.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.dll
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\refint\Generic_Method_With_IComparable.dll
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\Generic_Method_With_IComparable.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\Generic_Method_With_IComparable\obj\Debug\net6.0\ref\Generic_Method_With_IComparable.dll

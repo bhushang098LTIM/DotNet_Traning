@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\bin\Debug\net6.0\ArrayTypes.exe
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\bin\Debug\net6.0\ArrayTypes.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\bin\Debug\net6.0\ArrayTypes.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\bin\Debug\net6.0\ArrayTypes.dll
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\bin\Debug\net6.0\ArrayTypes.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.dll
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\refint\ArrayTypes.dll
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.pdb
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ArrayTypes.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\ArrayTypes\obj\Debug\net6.0\ref\ArrayTypes.dll

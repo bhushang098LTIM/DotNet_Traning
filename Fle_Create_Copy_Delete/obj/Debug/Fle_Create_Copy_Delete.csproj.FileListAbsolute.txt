@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\bin\Debug\Fle_Create_Copy_Delete.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\bin\Debug\Fle_Create_Copy_Delete.exe
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\bin\Debug\Fle_Create_Copy_Delete.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.FleMenuForm.resources
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.Properties.Resources.resources
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.exe
+C:\Users\labuser\source\repos\DotNetLearning\Fle_Create_Copy_Delete\obj\Debug\Fle_Create_Copy_Delete.pdb

@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\bin\Debug\net6.0\Query Keyword.exe
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\bin\Debug\net6.0\Query Keyword.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\bin\Debug\net6.0\Query Keyword.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\bin\Debug\net6.0\Query Keyword.dll
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\bin\Debug\net6.0\Query Keyword.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.dll
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\refint\Query Keyword.dll
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.pdb
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\Query Keyword.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\Query Keyword\obj\Debug\net6.0\ref\Query Keyword.dll

@@ -29,6 +29,11 @@ namespace Partial_Methods
         {
             this.M();
         }
+
+        public static void Main(string[] a)
+        {
+            CallStaticMethod();
+        }
     }
 
 

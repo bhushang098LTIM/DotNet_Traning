@@ -1,0 +1,15 @@
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\bin\Debug\net6.0\GenericList.exe
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\bin\Debug\net6.0\GenericList.deps.json
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\bin\Debug\net6.0\GenericList.dll
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\bin\Debug\net6.0\GenericList.pdb
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.dll
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\refint\GenericList.dll
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.pdb
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
+C:\Users\labuser\source\repos\DotNetLearning\GenericList\obj\Debug\net6.0\ref\GenericList.dll

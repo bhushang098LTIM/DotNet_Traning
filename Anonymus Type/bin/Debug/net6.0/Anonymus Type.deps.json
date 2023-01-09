@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Anonymus Type/1.0.0": {
+        "dependencies": {
+          "Abstract_Polymorphisam_Assignment": "1.0.0"
+        },
+        "runtime": {
+          "Anonymus Type.dll": {}
+        }
+      },
+      "Abstract_Polymorphisam_Assignment/1.0.0": {
+        "runtime": {
+          "Abstract_Polymorphisam_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anonymus Type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstract_Polymorphisam_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

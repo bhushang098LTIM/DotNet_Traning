@@ -1,0 +1,8 @@
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\obj\Debug\LinqToSQL.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\obj\Debug\LinqToSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Users\labuser\source\repos\DotNetLearning\LinqToSQL\obj\Debug\LinqToSQL.pdb

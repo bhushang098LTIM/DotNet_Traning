@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\bin\Debug\TaskOnEmpQuery.exe.config
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\bin\Debug\TaskOnEmpQuery.exe
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\bin\Debug\TaskOnEmpQuery.pdb
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\task1.frm_employee.resources
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.Properties.Resources.resources
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.exe
+C:\Users\labuser\source\repos\DotNetLearning\TaskOnEmpQuery\obj\Debug\TaskOnEmpQuery.pdb
