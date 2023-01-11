@@ -249,6 +249,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASPDotNet", "ASPDotNet", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellow", "..\..\..\Desktop\ASP.Net\Hellow\Hellow.csproj", "{61F55B56-F8A1-4E9E-BC24-AE7E93441B12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Disconnected DB", "Connected Disconnected DB\Connected Disconnected DB.csproj", "{D8420439-065F-4BE2-B2C0-0083888976CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emp data handeling Linq", "Emp data handeling Linq\Emp data handeling Linq.csproj", "{E2B904F3-396E-4C9A-A75F-6DB9CB0FDC4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -671,6 +675,14 @@ Global
 		{61F55B56-F8A1-4E9E-BC24-AE7E93441B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F55B56-F8A1-4E9E-BC24-AE7E93441B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F55B56-F8A1-4E9E-BC24-AE7E93441B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8420439-065F-4BE2-B2C0-0083888976CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8420439-065F-4BE2-B2C0-0083888976CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8420439-065F-4BE2-B2C0-0083888976CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8420439-065F-4BE2-B2C0-0083888976CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B904F3-396E-4C9A-A75F-6DB9CB0FDC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B904F3-396E-4C9A-A75F-6DB9CB0FDC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B904F3-396E-4C9A-A75F-6DB9CB0FDC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B904F3-396E-4C9A-A75F-6DB9CB0FDC4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -742,6 +754,8 @@ Global
 		{DC537B13-636D-42DC-A2FF-81FE1DED4746} = {6341BF1B-CFE8-48FD-ACF2-A418F5A3C6C8}
 		{5D06692D-30C9-4037-A378-9CEF7F8E4938} = {9355A40D-9883-406B-887D-6E1A19DD4BA2}
 		{61F55B56-F8A1-4E9E-BC24-AE7E93441B12} = {0D441123-28EF-4782-8D2C-FADC078D1B0A}
+		{D8420439-065F-4BE2-B2C0-0083888976CD} = {0D441123-28EF-4782-8D2C-FADC078D1B0A}
+		{E2B904F3-396E-4C9A-A75F-6DB9CB0FDC4F} = {0D441123-28EF-4782-8D2C-FADC078D1B0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCB6F57B-6073-469A-9B02-3A5A3094926C}
