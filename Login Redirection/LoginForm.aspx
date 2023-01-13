@@ -26,6 +26,15 @@
            
              <asp:Button ID="btn_login" runat="server" Text="Login" OnClick="btn_login_Click" />
 
+            <br />
+
+            <br />
+             <asp:Label ID="registerlabel" runat="server" Text="New User ?"></asp:Label>
+           
+
+        &nbsp;<asp:Button ID="btn_register_go" runat="server" Text="Register Here" OnClick="btn_register_go_Click" />
+            <br />
+           
         </div>
     </form>
 </body>

@@ -1,8 +1,0 @@
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\bin\Debug\EmployeeTypeddataset.exe.config
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\bin\Debug\EmployeeTypeddataset.exe
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\bin\Debug\EmployeeTypeddataset.pdb
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\obj\Debug\EmployeeTypeddataset.csproj.AssemblyReference.cache
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\obj\Debug\EmployeeTypeddataset.csproj.SuggestedBindingRedirects.cache
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\obj\Debug\EmployeeTypeddataset.csproj.CoreCompileInputs.cache
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\obj\Debug\EmployeeTypeddataset.exe
-C:\Users\labuser\source\repos\DotNetLearning\EmployeeTypeddataset\obj\Debug\EmployeeTypeddataset.pdb
